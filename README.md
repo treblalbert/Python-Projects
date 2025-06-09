@@ -48,7 +48,7 @@ This repository showcases my Python development skills through three comprehensi
 ## 🚀 Featured Projects
 
 ### 🎨 ASCII Art Generator
-**[`ASCII Art Generator.py`](./ASCII%20Art%20Generator.py)**
+**[`source code/ASCII Art Generator.py`](./source%20code/ASCII%20Art%20Generator.py)**
 
 Transform images and GIFs into animated ASCII art with procedural effects.
 
@@ -78,7 +78,7 @@ Transform images and GIFs into animated ASCII art with procedural effects.
 ---
 
 ### 🧽 Mr. CleanData
-**[`Dataset Cleaner.py`](./Dataset%20Cleaner.py)**
+**[`source code/Dataset Cleaner.py`](./source%20code/Dataset%20Cleaner.py)**
 
 AI-powered dataset analysis and cleaning tool with OpenAI integration.
 
@@ -108,7 +108,7 @@ AI-powered dataset analysis and cleaning tool with OpenAI integration.
 ---
 
 ### 📈 PlotIQ
-**[`Plot Generator.py`](./Plot%20Generator.py)**
+**[`source code/Plot Generator.py`](./source%20code/Plot%20Generator.py)**
 
 Natural language to data visualization converter using AI.
 
