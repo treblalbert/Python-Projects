@@ -275,8 +275,8 @@ This project is licensed under the **MIT License** - see the [`LICENSE`](LICENSE
 **Let's Connect!**
 
 [![GitHub](https://img.shields.io/badge/GitHub-treblalbert-181717?style=for-the-badge&logo=github)](https://github.com/treblalbert)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourprofile-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-albert--adroer--prats-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/albert-adroer-prats-615388160/)
+[![Email](https://img.shields.io/badge/Email-albertadroer@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:albertadroer@gmail.com)
 
 </div>
 
