@@ -33,7 +33,7 @@
 - [Tech Stack](#-tech-stack)
 - [Installation](#-installation)
 - [Usage](#-usage)
-- [Screenshots](#-screenshots)
+
 - [API Setup](#-api-setup)
 - [Contributing](#-contributing)
 - [License](#-license)
@@ -167,6 +167,18 @@ cd Python-Projects
 pip install tkinter pillow pandas numpy matplotlib seaborn openai requests pathlib
 ```
 
+### Project Structure
+```
+Python-Projects/
+├── README.md
+├── requirements.txt
+├── LICENSE
+└── source code/
+    ├── ASCII Art Generator.py
+    ├── Dataset Cleaner.py
+    └── Plot Generator.py
+```
+
 ### Alternative: Requirements File
 ```bash
 pip install -r requirements.txt
@@ -192,6 +204,9 @@ pathlib2>=2.3.0
 
 ### Running Applications
 ```bash
+# Navigate to source code directory
+cd "source code"
+
 # ASCII Art Generator
 python "ASCII Art Generator.py"
 
@@ -208,10 +223,6 @@ python "Plot Generator.py"
 3. **Load** your data/image
 4. **Process** with AI assistance
 5. **Export** results
-
-## 📸 Screenshots
-
-> **Note:** Add screenshots here showcasing the applications' interfaces and outputs
 
 ## 🔑 API Setup
 
